@@ -3,6 +3,8 @@ html,css of week two challenge
 
 Built portfolio page from scratch, trying to meet all of acceptance criteria .
 
+https://chongi23.github.io/KrystaG-MyPortfolio/
+
 ## Acceptance Criteria
 
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
